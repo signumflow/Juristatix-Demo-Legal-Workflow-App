@@ -187,7 +187,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🆘 Support
 
-- **Documentation:** [docs.signumflow.com](https://signumflow.com/docs)
+- **Documentation:** [signumflow.com/docs](https://signumflow.com/docs)
 - **API Support:** support@signumflow.com
 - **Demo Issues:** [GitHub Issues](https://github.com/signumflow/Juristatix-Demo-Legal-Workflow-App/issues)
 - **Community:** Join the SignumFlow Discord (link coming soon)
